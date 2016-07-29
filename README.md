@@ -1,5 +1,5 @@
-# Teeworlds-platformer
-Platformer in the style of teeworlds
+# Teeworlds-game
+Game in the style of teeworlds
 
 # Communication
 Skype - vanusssha;
