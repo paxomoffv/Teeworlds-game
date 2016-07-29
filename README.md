@@ -1,6 +1,6 @@
 # Teeworlds-platformer
 Platformer in the style of teeworlds
 
-# Communication:
+# Communication
 Skype - vanusssha;
-Vkontakte - /paxomoffv;
+vkontakte - /paxomoffv;
